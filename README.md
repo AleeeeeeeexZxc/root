@@ -1,0 +1,47 @@
+[Untitled-2.html](https://github.com/user-attachments/files/23880196/Untitled-2.html)
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Woodoxo</title>
+    <style>
+         .center-text {
+            text-align: center;
+            border: 1px solid transparent;
+            padding: 10px;
+            }
+        body {
+            background: black;
+            background-repeat: no-repeat;
+            background-size: cover;
+            }
+    </style>
+</head>
+<body>
+    <div class="center-text">
+        <font face="arial black" color="#FFFFFF">
+            <h1>
+                Hi guys, this is my first website made in HTML<br>
+                Мой собственный и первый сайт на HTML
+            </h1>
+        </font>
+    </div>
+    <ul>
+        <font color="#FFFFFF" face="comic sans ms">
+            <li>Тут будет находится мое BIO и некотарая информация обо мне</li>
+            <li>Изучаю:HTML,CSS,JV,C++
+            <li>Name:Koshkin,Сеня</li>
+            <li>Y.o:15</li>
+            <li>Location and coutry:UFA Russia (ﾒ﹏ﾒ)</li>
+            <li>My favourite game:StardewValley,CoreKeeper,Gta5RP</li>
+            <li>My favourite MusicGroup:Msi,Creep-P,Retard-O-Bot</li>
+            <li>My favourite friends:Артем,Даня</li>
+            <li>Немного обо мне в свободное время занимаюсь изучением html и css более основное для написание сайтов также изредко моделирую</li>
+            <li>В будущем хочу стать веб-разработчикам,дизайнером и делать проекты такие как:сайты, сервисы, маркетплейсы</li>
+            <li>Если вас заинтересовал или вы хотите чтото подобное только в своем дизайне обращайтесь в тг <a href="https://t.me/KoshkinZxc" target="_blank">@KoshkinZxc</a></li>
+            <li>Сайт получился маленький немного сыроват с дизайном но я не смог разобратся как убрать пиксели но в дальнейшем будет лучше</li>
+        </font>
+    </ul>
+        <div class="center-text">
+         <video controls src="images/hkiper.mp4" width="800" height="400">
+        </div>
